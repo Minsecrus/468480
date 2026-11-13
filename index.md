@@ -4,7 +4,6 @@ layout: home
 hero:
   name: "《468480》"
   text: "世界观大纲与硬核基建设定集"
-  tagline: "回归年严格等于 366 个太阳日 · 全人类终身清醒额度守恒 468,480 小时"
   actions:
     - theme: brand
       text: 阅读总纲 (main.md)

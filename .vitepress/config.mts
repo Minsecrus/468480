@@ -60,6 +60,7 @@ export default defineConfig({
           { text: '医疗规程、全麻馆与时序司法', link: '/infra/medical_anesthesia_and_law' },
           { text: '《新历法典》核心条文汇编', link: '/infra/legal_code_and_statutes' },
           { text: '经济白皮书：货币、税收与合同', link: '/infra/economic_tax_and_contracts' },
+          { text: '跨频工业生产、产品与销售体系', link: '/infra/industry_products_and_commerce' },
         ],
       },
       {
@@ -69,6 +70,10 @@ export default defineConfig({
           { text: '错峰族空间折叠与畸零者黑市', link: '/infra/life_staggered_and_fractional' },
           { text: '长眠财阀庄园、苏醒节与文化', link: '/infra/life_long_sleepers_and_culture' },
           { text: '跨频职业谱系与劳动力分工图谱', link: '/infra/occupations_and_labor' },
+          { text: '跨频教育体系与养成学', link: '/infra/education_and_indoctrination' },
+          { text: '跨频婚恋、家庭伦理与代际错位', link: '/infra/relationships_and_kinship' },
+          { text: '多速互联网、饮食与灾时强醒伦理', link: '/infra/media_food_and_emergencies' },
+          { text: '节律监测网、跨频刑侦与反侦察', link: '/infra/security_and_forensics' },
         ],
       },
     ],

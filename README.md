@@ -9,10 +9,10 @@
 ## 目录结构
 
 * [main.md](./main.md) — **故事主干大纲、核心数学公理与三幕结构**
-* [infra/README.md](./infra/README.md) — **世界观基建与社会生态设定总索引**（下辖 11 篇专题设定）：
+* [infra/README.md](./infra/README.md) — **世界观基建与社会生态设定总索引**（下辖 16 篇专题设定）：
   * 宏观地理与时间底座：[行星版图与荒野生态](./infra/world_and_wasteland.md)、[3D 垂直城邦与计时体系](./infra/city_and_timekeeping.md)
-  * 硬基建与法经制度：[能源与安眠金库](./infra/energy_vaults_and_logistics.md)、[成年礼与双轨政治](./infra/ceremony_quota_and_finance.md)、[医疗与全麻馆生态](./infra/medical_anesthesia_and_law.md)、[《新历法典》汇编](./infra/legal_code_and_statutes.md)、[经济白皮书与合同范本](./infra/economic_tax_and_contracts.md)
-  * 阶层日常与职场文化：[永昼人与基准人日常](./infra/life_perpetual_and_baseline.md)、[错峰族与无时区黑市](./infra/life_staggered_and_fractional.md)、[长眠财阀与文化图腾](./infra/life_long_sleepers_and_culture.md)、[跨频职业谱系详表](./infra/occupations_and_labor.md)
+  * 硬基建与法经制度：[能源与安眠金库](./infra/energy_vaults_and_logistics.md)、[成年礼与双轨政治](./infra/ceremony_quota_and_finance.md)、[医疗与全麻馆生态](./infra/medical_anesthesia_and_law.md)、[《新历法典》汇编](./infra/legal_code_and_statutes.md)、[经济白皮书与合同范本](./infra/economic_tax_and_contracts.md)、[跨频生产、产品与销售体系](./infra/industry_products_and_commerce.md)
+  * 阶层日常与职场文化：[永昼人与基准人日常](./infra/life_perpetual_and_baseline.md)、[错峰族与无时区黑市](./infra/life_staggered_and_fractional.md)、[长眠财阀与文化图腾](./infra/life_long_sleepers_and_culture.md)、[跨频职业谱系详表](./infra/occupations_and_labor.md)、[跨频教育与养成学](./infra/education_and_indoctrination.md)、[婚恋伦理与代际错位](./infra/relationships_and_kinship.md)、[多速网络、饮食与灾时强醒](./infra/media_food_and_emergencies.md)、[节律天眼与跨频刑侦](./infra/security_and_forensics.md)
 * [index.md](./index.md) — **VitePress 文档站首页与 KaTeX 公式速览**
 * [.vitepress/](./.vitepress/config.mts) — **VitePress 与 KaTeX 渲染配置**
 
