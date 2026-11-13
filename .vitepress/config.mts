@@ -73,7 +73,7 @@ export default defineConfig({
           { text: '长眠财阀庄园、苏醒节与文化', link: '/infra/life_long_sleepers_and_culture' },
           { text: '寿命观分裂、虚无主义与生死礼俗', link: '/infra/longevity_philosophy_and_taboos' },
           { text: '跨频职业谱系与劳动力分工图谱', link: '/infra/occupations_and_labor' },
-          { text: '跨频教育体系与养成学', link: '/infra/education_and_indoctrination' },
+          { text: '跨频教育体系与克隆基地筛选', link: '/infra/education_and_indoctrination' },
           { text: '跨频婚恋、家庭伦理与代际错位', link: '/infra/relationships_and_kinship' },
           { text: '多速互联网、饮食与灾时强醒伦理', link: '/infra/media_food_and_emergencies' },
           { text: '节律监测网、跨频刑侦与反侦察', link: '/infra/security_and_forensics' },
