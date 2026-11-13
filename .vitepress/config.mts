@@ -71,6 +71,7 @@ export default defineConfig({
           { text: '永昼人与基准人的日常生存图景', link: '/infra/life_perpetual_and_baseline' },
           { text: '错峰族空间折叠与畸零者黑市', link: '/infra/life_staggered_and_fractional' },
           { text: '长眠财阀庄园、苏醒节与文化', link: '/infra/life_long_sleepers_and_culture' },
+          { text: '寿命观分裂、虚无主义与生死礼俗', link: '/infra/longevity_philosophy_and_taboos' },
           { text: '跨频职业谱系与劳动力分工图谱', link: '/infra/occupations_and_labor' },
           { text: '跨频教育体系与养成学', link: '/infra/education_and_indoctrination' },
           { text: '跨频婚恋、家庭伦理与代际错位', link: '/infra/relationships_and_kinship' },
