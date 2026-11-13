@@ -9,8 +9,11 @@ hero:
       text: 阅读总纲 (main.md)
       link: /main
     - theme: alt
-      text: 浏览世界观基建索引
+      text: 浏览基建设定集
       link: /infra/README
+    - theme: alt
+      text: 重点行业专业剖面
+      link: /professions/README
 
 features:
   - title: 宏观数学公理

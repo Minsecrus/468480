@@ -36,6 +36,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '核心大纲', link: '/main' },
       { text: '设定索引', link: '/infra/README' },
+      { text: '行业深剖', link: '/professions/README' },
     ],
     sidebar: [
       {
@@ -43,6 +44,7 @@ export default defineConfig({
         items: [
           { text: '《468480》大纲', link: '/main' },
           { text: '世界观基建与社会生态索引', link: '/infra/README' },
+          { text: '重点行业专业剖面索引', link: '/professions/README' },
         ],
       },
       {
@@ -74,6 +76,18 @@ export default defineConfig({
           { text: '跨频婚恋、家庭伦理与代际错位', link: '/infra/relationships_and_kinship' },
           { text: '多速互联网、饮食与灾时强醒伦理', link: '/infra/media_food_and_emergencies' },
           { text: '节律监测网、跨频刑侦与反侦察', link: '/infra/security_and_forensics' },
+        ],
+      },
+      {
+        text: '四、重点行业专业剖面（对比现实）',
+        items: [
+          { text: '量化金融与跨频做市暗战（Quant）', link: '/professions/quant_and_markets' },
+          { text: '大学教授、科研 PI 与学术博弈', link: '/professions/academia_and_research' },
+          { text: '外科主刀、麻醉药代与急诊规程', link: '/professions/medicine_and_surgery' },
+          { text: '软件架构、三叶草研发与 SRE 运维', link: '/professions/software_and_sre' },
+          { text: '商事律所、百年诉讼与相位法庭', link: '/professions/law_and_litigation' },
+          { text: '土木工程、地下盾构与百年结构', link: '/professions/civil_and_geotechnical' },
+          { text: '保险精算、多维生命表与风险定价', link: '/professions/actuarial_and_insurance' },
         ],
       },
     ],
